@@ -1,5 +1,5 @@
 
-# Image classification using Neural Network
+# Landuse Landcover Classification
 
 ## Data Used 
 Add data specifications of landsat 5 and landsat 8. (resolution, number of bands, radiometric resolution, swath)
